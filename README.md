@@ -1,4 +1,4 @@
-<img src="../RaheelArfeen/Banner.png">
+<img src="./Banner.png">
 
 ## About Me
 
