@@ -66,7 +66,6 @@ I'm always open to collaboration, feedback, or just a friendly chat!
 - 📧 **Email**: [raheelarfeen@gmail.com](mailto:raheelarfeen@gmail.com)  
 - 🌐 **Portfolio**: [https://raheelarfeen.com](https://raheelarfeen.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/raheelarfeen](https://www.linkedin.com/in/raheelarfeen/)  
-- 📘 **Facebook**: [facebook.com/raheelarfeen](https://www.facebook.com/raheelarfeen/)
 
 ---
 
